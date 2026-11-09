@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-11-06T06:52:51Z",
+  "synced_at": "2026-11-09T22:25:02Z",
   "source": "https://www.royallepage.ca/fr/search/get-list/property/53785/1/",
-  "count": 25,
+  "count": 24,
   "listings": [
     {
       "id": "29505531",
@@ -218,24 +218,6 @@
       "lat": null,
       "lng": null,
       "alt": "335Z - 335AZ Boul. Adolphe-Chapleau Bois-Des-Filion, QC J6Z 1Y6"
-    },
-    {
-      "id": "28873701",
-      "url": "https://www.royallepage.ca/fr/property/quebec/prevost/816-rue-de-la-station/28873701/mls20589337/",
-      "mls": "20589337",
-      "sold": false,
-      "price_label": "349 000 $",
-      "type": "Maison",
-      "bedrooms": "2",
-      "bathrooms": "1+0",
-      "address": "816 Rue de la Station",
-      "city": "Prévost",
-      "postal": "J0R 1T0",
-      "photo_remote": "https://rlp.jumplisting.com/photos/28/87/37/1/28873701_0.jpg",
-      "photo": "assets/images/listings/28873701.jpg",
-      "lat": null,
-      "lng": null,
-      "alt": "816 Rue de la Station Prévost, QC J0R 1T0"
     },
     {
       "id": "28633677",
