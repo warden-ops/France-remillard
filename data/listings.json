@@ -1,8 +1,26 @@
 {
-  "synced_at": "2026-11-09T22:25:02Z",
+  "synced_at": "2026-11-11T06:30:40Z",
   "source": "https://www.royallepage.ca/fr/search/get-list/property/53785/1/",
-  "count": 24,
+  "count": 25,
   "listings": [
+    {
+      "id": "29585278",
+      "url": "https://www.royallepage.ca/fr/property/quebec/saint-colomban/152-rue-de-loiselet/29585278/mls17816805/",
+      "mls": "17816805",
+      "sold": false,
+      "price_label": "375 000 $",
+      "type": "Terrain",
+      "bedrooms": "",
+      "bathrooms": "",
+      "address": "152 Rue de l'Oiselet",
+      "city": "Saint-Colomban",
+      "postal": "J5K 0C1",
+      "photo_remote": "https://rlp.jumplisting.com/photos/29/58/52/78/29585278_0.jpg",
+      "photo": "assets/images/listings/29585278.jpg",
+      "lat": null,
+      "lng": null,
+      "alt": "152 Rue de l'Oiselet Saint-Colomban, QC J5K 0C1"
+    },
     {
       "id": "29505531",
       "url": "https://www.royallepage.ca/fr/property/quebec/sainte-adele/400-rue-dufresne/29505531/mls17541259/",
