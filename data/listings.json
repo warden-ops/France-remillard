@@ -1,8 +1,26 @@
 {
-  "synced_at": "2026-11-11T06:30:40Z",
+  "synced_at": "2026-11-12T19:57:55Z",
   "source": "https://www.royallepage.ca/fr/search/get-list/property/53785/1/",
-  "count": 25,
+  "count": 26,
   "listings": [
+    {
+      "id": "29594104",
+      "url": "https://www.royallepage.ca/fr/property/quebec/saint-jerome/1029-rue-touchette/29594104/mls15708340/",
+      "mls": "15708340",
+      "sold": false,
+      "price_label": "524 900 $",
+      "type": "Maison",
+      "bedrooms": "4",
+      "bathrooms": "2+0",
+      "address": "1029 Rue Touchette",
+      "city": "Saint-Jérôme",
+      "postal": "J5L 2L7",
+      "photo_remote": "https://rlp.jumplisting.com/photos/29/59/41/4/29594104_0.jpg",
+      "photo": "assets/images/listings/29594104.jpg",
+      "lat": null,
+      "lng": null,
+      "alt": "1029 Rue Touchette Saint-Jérôme, QC J5L 2L7"
+    },
     {
       "id": "29585278",
       "url": "https://www.royallepage.ca/fr/property/quebec/saint-colomban/152-rue-de-loiselet/29585278/mls17816805/",
