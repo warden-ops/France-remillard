@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-11-13T19:46:01Z",
+  "synced_at": "2026-11-14T06:29:39Z",
   "source": "https://www.royallepage.ca/fr/search/get-list/property/53785/1/",
-  "count": 25,
+  "count": 26,
   "listings": [
     {
       "id": "29594104",
@@ -38,6 +38,24 @@
       "lat": null,
       "lng": null,
       "alt": "152 Rue de l'Oiselet Saint-Colomban, QC J5K 0C1"
+    },
+    {
+      "id": "29505531",
+      "url": "https://www.royallepage.ca/fr/property/quebec/sainte-adele/400-rue-dufresne/29505531/mls17541259/",
+      "mls": "17541259",
+      "sold": true,
+      "price_label": "Vendue",
+      "type": "Maison",
+      "bedrooms": "4",
+      "bathrooms": "2+1",
+      "address": "400 Rue Dufresne",
+      "city": "Sainte-Adèle",
+      "postal": "J8B 2S9",
+      "photo_remote": "https://rlp.jumplisting.com/photos/29/50/55/31/29505531_0.jpg",
+      "photo": "assets/images/listings/29505531.jpg",
+      "lat": null,
+      "lng": null,
+      "alt": "400 Rue Dufresne Sainte-Adèle, QC J8B 2S9"
     },
     {
       "id": "29418224",
