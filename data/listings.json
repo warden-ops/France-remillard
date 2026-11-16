@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-11-14T06:29:39Z",
+  "synced_at": "2026-11-16T22:09:18Z",
   "source": "https://www.royallepage.ca/fr/search/get-list/property/53785/1/",
-  "count": 26,
+  "count": 25,
   "listings": [
     {
       "id": "29594104",
@@ -272,24 +272,6 @@
       "lat": null,
       "lng": null,
       "alt": "2510 Ch. de la Rivière-Rouge N. Saint-André-D'Argenteuil, QC J0V 1X0"
-    },
-    {
-      "id": "28571732",
-      "url": "https://www.royallepage.ca/fr/property/quebec/saint-hippolyte/69-365e-avenue/28571732/mls11346500/",
-      "mls": "11346500",
-      "sold": false,
-      "price_label": "224 900 $",
-      "type": "Maison",
-      "bedrooms": "1",
-      "bathrooms": "1+0",
-      "address": "69 365e Avenue",
-      "city": "Saint-Hippolyte",
-      "postal": "J8A 2Y6",
-      "photo_remote": "https://rlp.jumplisting.com/photos/28/57/17/32/28571732_0.jpg",
-      "photo": "assets/images/listings/28571732.jpg",
-      "lat": null,
-      "lng": null,
-      "alt": "69 365e Avenue Saint-Hippolyte, QC J8A 2Y6"
     },
     {
       "id": "28366006",
