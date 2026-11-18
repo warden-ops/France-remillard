@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-11-17T20:58:23Z",
+  "synced_at": "2026-11-18T07:34:25Z",
   "source": "https://www.royallepage.ca/fr/search/get-list/property/53785/1/",
-  "count": 23,
+  "count": 25,
   "listings": [
     {
       "id": "29594104",
@@ -272,6 +272,42 @@
       "lat": null,
       "lng": null,
       "alt": "2510 Ch. de la Rivière-Rouge N. Saint-André-D'Argenteuil, QC J0V 1X0"
+    },
+    {
+      "id": "28364493",
+      "url": "https://www.royallepage.ca/fr/property/quebec/prevost/1328-rue-principale/28364493/mls26965590/",
+      "mls": "26965590",
+      "sold": true,
+      "price_label": "Vendue",
+      "type": "Maison",
+      "bedrooms": "3",
+      "bathrooms": "1+0",
+      "address": "1328 Rue Principale",
+      "city": "Prévost",
+      "postal": "J0R 1T0",
+      "photo_remote": "https://rlp.jumplisting.com/photos/28/36/44/93/28364493_0.jpg",
+      "photo": "assets/images/listings/28364493.jpg",
+      "lat": null,
+      "lng": null,
+      "alt": "1328 Rue Principale Prévost, QC J0R 1T0"
+    },
+    {
+      "id": "28366006",
+      "url": "https://www.royallepage.ca/fr/property/quebec/prevost/1328z-rue-principale/28366006/mls16515814/",
+      "mls": "16515814",
+      "sold": true,
+      "price_label": "Vendue",
+      "type": "Commercial",
+      "bedrooms": "",
+      "bathrooms": "",
+      "address": "1328Z Rue Principale",
+      "city": "Prévost",
+      "postal": "J0R 1T0",
+      "photo_remote": "https://rlp.jumplisting.com/photos/28/36/60/6/28366006_0.jpg",
+      "photo": "assets/images/listings/28366006.jpg",
+      "lat": null,
+      "lng": null,
+      "alt": "1328Z Rue Principale Prévost, QC J0R 1T0"
     },
     {
       "id": "28027638",
